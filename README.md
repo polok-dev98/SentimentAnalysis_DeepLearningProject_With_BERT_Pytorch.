@@ -6,11 +6,11 @@ BERT model to feed input for training purposes.
 
 2. Used  BERT-Base-Cased version of BERT pretrained model to make context ( pooled output) from the  tokenized reviews.
 
-3. Used a Dense layers to predict the predictions score of each classes for each reviews .
+3. Used a Dense layers to predict the predictions score of each classes for each reviews.
 
-4. Build a model using  BERT and Dense layer and train the model using DataModeule and Dataloader from pytorch .
+4. Build a model using  BERT and Dense layer and train the model using DataModeule and Dataloader from pytorch.
 
-5. Used the tranied model to make prediction from new data input (reviews)
+5. Used the tranied model to make prediction from new data input (reviews).
 
 # Enjoy !!!!!!!!!!!!!!!!!!!!
 
