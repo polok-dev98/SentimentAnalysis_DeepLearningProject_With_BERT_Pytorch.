@@ -12,5 +12,5 @@ BERT model to feed input for training purposes.
 
 5. Used the tranied model to make prediction from new data input (reviews).
 
-# Enjoy !!!!!!!!!!!!!!!!!!!!
+
 
