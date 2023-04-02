@@ -1,5 +1,5 @@
 # About Project:
-Sentiment analysis project using BERT model and pytorch . Here used Google PlaystoreAPP Review Dataset and from the dataset  used review  column to predict the sentiment of the review .
+Sentiment analysis project using BERT model and pytorch . Here used Google PlaystoreAPP Review Dataset and from the dataset  used review  column to predict the sentiment of the review.
 
 1. Used BERT-Base-Cased version of BERT Tokenizer to tokenize ,build the sequence of intergers of these tokens and others pre-processing steps which is required by
 BERT model to feed input for training purposes.
